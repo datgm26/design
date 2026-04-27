@@ -3,7 +3,7 @@
 - [シラバス](design_2026_syllabus.pdf)
 - [Google Meet](https://meet.google.com/gkj-jxms-uxc)
 - [講義日程](thu.md)
-- [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdWKJzH-mvLFQhtaWK04m2WG_7S-jAVjiTmH8_tLHR5dvY5Gw/viewform?usp=header)
+- [URLなどの報告](https://forms.gle/gTKG7D9AQwgGx4NB6)
 
 # 1回目(4/30)
 
