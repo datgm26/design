@@ -9,7 +9,7 @@
 
 - [ガイダンス](https://docs.google.com/presentation/d/1XfN6J60XqteFF79WgJ4RKLzTTdIIajLd/)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
-  - Googleアカウント / GitHub / 作業用フォルダー
+  - Googleアカウント / GitHub / 作業用フォルダー / Visual Studioへのサインインのうち、やっていないものをやる
   - ツールについて
     - プログラムやアプリの使い方の管理、文章作成者が決まっているようなもの：GitHub
     - 大きな画像や動画など：Googleドライブ
