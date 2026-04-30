@@ -5,6 +5,63 @@
 - [講義日程](thu.md)
 - [URLなどの報告](https://forms.gle/gTKG7D9AQwgGx4NB6)
 
+<!--
+### 話題
+
+- [unity1week online共有会 #15](https://www.youtube.com/live/wmF1z5Epr1g?feature=shared)
+  - 他校の学生さんの活動例 [えふぇこ: u1w反省会](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=4486s)
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+!-->
+
+## 2回目(5/7)
+
+### 内容
+
+- 前回の振り返り。提出物の確認
+- [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/16VJ2M9ly2rlyg_CSHn2PX-UxZdwWcwDsLYLpMEWOknA/)
+- [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
+- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品をみて、要素を確認する
+  - 過去の大会 > 見たい年度 > 結果発表はこちら！をクリック
+- 参考
+  - [遠藤雅伸. ゲーム道に通じるユーザーの振る舞いとゲームデザインへの応用](https://www.teu.ac.jp/ap_page/koukai/2019_03_3endo.pdf)
+  - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
+  - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
+
+
+### 演習１：グループでアイディアを出し
+
+- ブレスト
+  - [面白法人カヤック. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)
+- 手順
+  - [こちら](https://docs.google.com/spreadsheets/d/1NvhnYIoOGHVTS_dtwY_9lWs1cJ3J5DwJrwq9PHmBWt8/)を右クリックして、新しいタブで開く
+    - シートの下から自分のグループのタブをクリックして開く
+    - A列に、ホワイトボード側の人から順に思いついた単語を入力していく
+    - ※ブレストの目的は、普通は出ないような飛躍的な案を出すこと
+
+### 演習２：ブレストで出た単語から3つのランダムワードを使った企画を考える
+
+- スライドの準備
+  - https://drive.google.com を開く
+  - 左上の新規ボタンを押す
+  - Googleスライドをクリック
+  - 無題のスライド の部分をクリックして、「企画演習：氏名」と入力。氏名の部分は自分の名前
+  - ランダムで選ばれた自分のグループの単語をスライドに貼り付ける
+- 以下の項目をGoogleスライドにまとめる
+  - ゲームのコードネーム(仮のタイトル)
+  - コアステートメント
+  - 画面のサムネイル
+    - 手書きやペイント、図形などを使って、画面のサムネイルを作成(線を太めにして、しっかりと端を閉じると奇麗に見える)
+      - 参考： [ArtStation. Gameplay & Level Design](https://www.artstation.com/channels/gameplay_and_level_design?sort_by=trending)
+  - 具体的な操作方法
+  - ルール(何をやるのか。あるいは、どうなったらダメなのか。など)
+  - 世界観(いつ、どこ、だれ。ハイパーカジュアル系など、これがないものもあるので、ない時はなしでよい)
+- 考えるヒント
+  - 選択と解放や、何を試すかを考えて、面白さを狙う
+  - プレイヤーが「これは面白い！」と感じるクライマックスの瞬間を考える
+  - ゲームデザインレンズデッキの1～5を参考にする
+  - 考えた理由を最大に強調するための操作方法、ルール、ステージ、設定などを考える
+
+
 # 1回目(4/30)
 
 - [ガイダンス](https://docs.google.com/presentation/d/1XfN6J60XqteFF79WgJ4RKLzTTdIIajLd/)
@@ -16,6 +73,4 @@
     - 企画書や仕様書、確認事項など、手軽に共有したり編集できて残しておきたい文章：Googleドキュメント、ワークシート、Notionなど
 - 講義
   - [キー入力の練習](https://docs.google.com/document/d/1SUtdf1lu0dVyzqLkJZUX2G7YmtKZszW3AjBcBmu7Pao/)
-  - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/16VJ2M9ly2rlyg_CSHn2PX-UxZdwWcwDsLYLpMEWOknA/)
-  - [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
  
