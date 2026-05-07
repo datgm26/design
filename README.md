@@ -15,6 +15,9 @@
 ## 3回目
 
 - [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
+- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品をみて、要素を確認する
+  - 過去の大会 > 見たい年度 > 結果発表はこちら！をクリック
+
 !-->
 
 ## 2回目(5/7)
@@ -23,8 +26,6 @@
 
 - 前回の振り返り。提出物の確認
 - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/16VJ2M9ly2rlyg_CSHn2PX-UxZdwWcwDsLYLpMEWOknA/)
-- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品をみて、要素を確認する
-  - 過去の大会 > 見たい年度 > 結果発表はこちら！をクリック
 - 参考
   - [遠藤雅伸. ゲーム道に通じるユーザーの振る舞いとゲームデザインへの応用](https://www.teu.ac.jp/ap_page/koukai/2019_03_3endo.pdf)
   - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
