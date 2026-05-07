@@ -11,6 +11,10 @@
 - [unity1week online共有会 #15](https://www.youtube.com/live/wmF1z5Epr1g?feature=shared)
   - 他校の学生さんの活動例 [えふぇこ: u1w反省会](https://www.youtube.com/watch?v=wmF1z5Epr1g&t=4486s)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+
+## 3回目
+
+- [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 !-->
 
 ## 2回目(5/7)
@@ -19,7 +23,6 @@
 
 - 前回の振り返り。提出物の確認
 - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/16VJ2M9ly2rlyg_CSHn2PX-UxZdwWcwDsLYLpMEWOknA/)
-- [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品をみて、要素を確認する
   - 過去の大会 > 見たい年度 > 結果発表はこちら！をクリック
 - 参考
