@@ -35,7 +35,7 @@
   - 右上の 共有 をクリック
   - リンクを知っている全員に変更 をクリック
   - リンクをコピー をクリックして、完了をクリック
-  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
+  - [こちら](https://forms.gle/gTKG7D9AQwgGx4NB6) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
 - [Google Meet](https://meet.google.com/gkj-jxms-uxc)で企画案の共有
 - [ゲームメカニクス　ボードゲーム版](https://docs.google.com/document/d/1xGz1yZG_H4op19PyiOO5Bu4Gt9dHdlRItBZq05MFeYc/)
   - ゲームの歴史まで
