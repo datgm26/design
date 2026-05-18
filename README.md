@@ -14,13 +14,27 @@
 
 !-->
 
+## 4回目(5/21)
+
+### 話題
+
+- [TUB Tama Art University(多摩美術大学 TUB). 「そもそも、デザインてなんだろう？」講師：佐藤卓｜Tama Design High School講義プログラム](https://www.youtube.com/live/-nP0pya7K5o?si=UEhPMEjKCiRqhHJC)
+
+### 内容
+
+- [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+- [ゲームメカニクス　ボードゲーム版](https://docs.google.com/document/d/1xGz1yZG_H4op19PyiOO5Bu4Gt9dHdlRItBZq05MFeYc/)
+  - 演習は飛ばす
+
+
 ## 3回目(5/14)
 
 ### 話題
 
 - [Yahoo!きっず. AIでゲームつくりエイター](https://kids.yahoo.co.jp/event/mag/aigame/)
 
-### 予定
+### 内容
 
 - [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品をみて、要素を確認する
@@ -37,8 +51,6 @@
   - リンクをコピー をクリックして、完了をクリック
   - [こちら](https://forms.gle/gTKG7D9AQwgGx4NB6) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
 - [Google Meet](https://meet.google.com/gkj-jxms-uxc)で企画案の共有
-- [ゲームメカニクス　ボードゲーム版](https://docs.google.com/document/d/1xGz1yZG_H4op19PyiOO5Bu4Gt9dHdlRItBZq05MFeYc/)
-  - ゲームの歴史まで
 
 ## 2回目(5/7)
 
