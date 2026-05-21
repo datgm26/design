@@ -19,6 +19,7 @@
 ### 話題
 
 - [TUB Tama Art University(多摩美術大学 TUB). 「そもそも、デザインてなんだろう？」講師：佐藤卓｜Tama Design High School講義プログラム](https://www.youtube.com/live/-nP0pya7K5o?si=UEhPMEjKCiRqhHJC)
+- [TUB Tama Art University(多摩美術大学 TUB). 草場純 講義「今、なぜアナログゲームか？」収録後対談](https://tub.tamabi.ac.jp/projects/6766/)
 
 ### 内容
 
