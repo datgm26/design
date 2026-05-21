@@ -14,6 +14,34 @@
 
 !-->
 
+## 5回目(5/28)
+
+### 話題
+
+- プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
+
+### 予定
+
+- [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
+- [色のデザイン](http://am1.space/dat/design/design4-color.pdf)
+  - [図](http://am1.space/dat/design/design4-color-fig.pdf)
+- 演習：ワンキーゲームの構想をまとめる
+  - [スライド:ワンキーゲームを考える](https://docs.google.com/presentation/d/1AB83uFijTqKhkz4JvkoafZ3MVNYYEN-l1jQ2Z873Sjk/)
+    - [ゲームの企画の鍵](https://docs.google.com/presentation/d/1drsBdUCuIgHrFO0VtAAmZxRTV8mqrM6x0UHr9U23YyY/)
+    - 画面レイアウトや、面白場面を考える
+    - 参考
+      - [フルーツ洞窟](https://docs.google.com/presentation/d/15gL8iBUboiPvj6Po5NBouCa3Ge-vZpoxNUheVFlVe7Q/) 
+  - Googleスライドで、新規作成
+  - ドキュメント名を、ワンキー：氏名
+  - 仮タイトルを表紙に（最後でよい）
+  - 操作方法とルール
+  - 画面レイアウトのラフスケッチ 1920x1080px
+  - 面白場面のラフスケッチ
+  - 右上の共有をクリックして、制限付きをクリック＞リンクを知っている全員に変更
+  - リンクをコピー＞完了
+  - [こちら](https://forms.gle/gTKG7D9AQwgGx4NB6)にURLを貼り付けて共有
+
+
 ## 4回目(5/21)
 
 ### 話題
