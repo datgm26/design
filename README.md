@@ -19,8 +19,8 @@
 ### 予定
 
 - ワンキーゲーム企画の評価
-  - ゲームのコアとフィーチャーを意識する
-  - コアだけで面白さを表現する
+  - ゲームのコアとフィーチャーを分ける
+  - コアだけで面白さを保証する
 - [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
   - [図](http://am1.space/dat/design/design5-font-fig.pdf)
 - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 復習
