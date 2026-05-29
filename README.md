@@ -20,7 +20,7 @@
 
 - ワンキーゲーム企画の評価
   - ゲームのコアとフィーチャーを分ける
-  - コアから深堀りする
+  - コアだけで面白いのが前提
 - [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
   - [図](http://am1.space/dat/design/design5-font-fig.pdf)
 - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 復習
