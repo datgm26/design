@@ -14,9 +14,20 @@
 
 !-->
 
-## 6回目(6/4)
+## 7回目(6/11)
 
 ### 予定
+
+- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 復習
+- Unityでモックアップ作成-文字の表示-
+  - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+  - [TextMesh Proの使い方](https://am1.jp/tutorials/unity/tmpro/)
+  - [Coliss. 日本語のフリーフォントのまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+  - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
+
+## 6回目(6/4)
+
+### 内容
 
 - ワンキーゲーム企画の評価
   - ゲームのコアとフィーチャーを分ける
