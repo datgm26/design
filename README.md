@@ -16,6 +16,8 @@
 
 ## 7回目(6/11)
 
+<!--本日も、オンライン講義です。先週と同様の手順で、Zoomに接続してください。接続に問題があれば、 yrk00337@gmail.com へメールでお知らせください。-->
+
 ### 予定
 
 - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 復習
