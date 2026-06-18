@@ -4,6 +4,7 @@
 - [Google Meet](https://meet.google.com/gkj-jxms-uxc)
 - [講義日程](thu.md)
 - [URLなどの報告](https://forms.gle/gTKG7D9AQwgGx4NB6)
+- [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 
 <!--
 ### 話題
