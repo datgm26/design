@@ -15,15 +15,20 @@
 
 !-->
 
+## 9回目(6/25)
+
+### 予定
+
+- [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+
 ## 8回目(6/18)
 
 本日も、オンライン講義です。先週と同様の手順で、Zoomに接続してください。接続に問題があれば、 yrk00337@gmail.com へメールでお知らせください。
 
-### 予定
+### 内容
 
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
 - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 
-- [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
 - モックアップ続き
 
 ## 7回目(6/11)
