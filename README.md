@@ -19,7 +19,17 @@
 
 ### 予定
 
+作業結果のモックアップのUnityプロジェクトをGitHubで講師と共有して、後日、評価を返します。
+
 - [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+  - 本ドキュメントに従って、各自、ProBuilderを使ってみてください
+- 先週までに作成してあるワンキーゲーム用のUnityのプロジェクトを、GitHubにパブリッシュして、講師に共有してください
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- これまで学んだことを投入して、ワンキーゲームのモックアップをUnityで作成してください
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/) 
+
+以上、できるところまで進めて、できたところまでを、GitHubにプッシュしてください。
+
 
 ## 8回目(6/18)
 
