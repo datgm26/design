@@ -23,6 +23,7 @@
 
 - [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
   - 本ドキュメントに従って、各自、ProBuilderを使ってみてください
+  - ドキュメント通りに進められない箇所があったら、ChatGPTやGeminiなどを使って、解決策を探してください
 - 先週までに作成してあるワンキーゲーム用のUnityのプロジェクトを、GitHubにパブリッシュして、講師に共有してください
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - これまで学んだことを投入して、ワンキーゲームのモックアップをUnityで作成してください
