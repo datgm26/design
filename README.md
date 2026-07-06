@@ -17,6 +17,10 @@
 
 ## 11回目(7/6)
 
+### 話題
+
+- [Unity Summer Challenge](https://app.response.unity3d.com/e/es?s=795651218&e=27023229&elqTrackId=a7fc0838320d4ab99c43a716a87aa41c&elq=918372fc2312488fba703203135df9cc&elqaid=38331&elqat=1&elqak=8AF50DF5966D9778A7EAAE111207910C21A27BF3D9D648D8DD58CAE90FC97ECC2F21)に参加してみよう
+
 ### 予定
 
 - ワンキーゲームモックアップのプロジェクトの仕上げと提出
